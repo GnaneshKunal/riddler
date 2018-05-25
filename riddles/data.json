@@ -1,0 +1,334 @@
+{
+    "data": [
+	{
+	    "q": "When's a donkey spelled with one letter?",
+	    "a": "When it's \"U\""
+	},
+	{
+	    "q": "When is a person like a piece of wood?",
+	    "a": "When he's a ruler"
+	},
+	{
+	    "q": "What room can no one enter?",
+	    "a": "Mushroom"
+	},
+	{
+	    "q": "What is the beginning of eternity, the end of time and space, the beginning of every end and the end of every race?",
+	    "a": "The Letter E"
+	},
+	{
+	    "q": "How much dirt is in a hole 3 acres square and 200 feet deep?",
+	    "a": "None, because it's a hole"
+	},
+	{
+	    "q": "What won't run long without winding?",
+	    "a": "a river"
+	},
+	{
+	    "q": "What does a turkey do when he flies upside down?",
+   	    "a": "He gobbles up"
+	},
+	{
+	    
+	    "q": "What weighs six ounces, sits in a tree, and is very dangerous?",
+   	    "a": "A sparrow with a machine gun"
+	},
+	{
+	    "q": "What has yellow skin and writes?",
+   	    "a": "A ballpoint banana"
+	},
+	{
+	    "q": "What people are always in a hurry?",
+   	    "a": "Russians"
+ 	},
+	{
+	    "q": "What goes up white and comes down yellow and white?",
+   	    "a": "An egg"
+ 	},
+	{
+	    "q": "How do you divide seventeen apples among sixteen people?",
+   	    "a": "Make applesauce"
+	},
+	{
+	    "q": "Why is an orange like a bell?",
+   	    "a": "Because they both must be peeled"
+	},
+	{
+	    "q": "There are three men in a boat with four cigarettes but no matches. How do they manage to smoke?",
+   	    "a": "They throw one cigarette overboard and made the boat a cigarette lighter"
+	},
+	{
+	    "q": "What is it that no man wants to have but no man wants to lose?",
+   	    "a": "A lawsuit"
+ 	},
+	{
+	    "q": "When is the time of a clock like the whistle of a train?",
+   	    "a": "When it's two to two"
+	},
+	{
+	    "q":"What has neither flesh, bone, nor nail yet has 4 fingers and a thumb?",
+   	    "a": "A Glove"
+	},
+	{
+	    "q": "Why is a quarrel like a bargain?"
+   	    "a": "It takes two to make it"
+	},
+	{
+	    "q": "What kind of pins are used in soup?",
+   	    "a": "Terrapins"
+ 	},
+	{
+	    "q": "What is Joan of Arc made of?",
+   	    "a": "Maid of Orleans"
+	},
+	{
+	    "q": "How many sides has a circle?",
+   	    "a": "Two, inside and outside"
+	},
+	{
+	    "q": "Which president wears the largest hat?",
+   	    "a": "The one with the biggest head."
+	},
+	{
+	    "q": "Why is a woman in love like a welder?",
+   	    "a": "They both carry a torch"
+	},
+	{
+	    "q": "What is it that's always coming but never arrives?",
+   	    "a": "Tomorrow"
+ 	},
+	{
+	    "q": "What squeals louder than a caught rat?"
+   	    "a": "Several caught rats"
+	},
+	{
+	    "q": "How do you stop a dog from barking in July?"
+   	    "a": "Shoot him in June"
+	},
+	{
+	    "q": "What is black & white and red all over?",
+   	    "a": "Book"
+ 	},
+	{
+	    "q": "What has branches and leaves and no bark?",
+   	    "a": "Library"
+ 	},
+	{
+	    "q": "The more you take away, the larger it grows. What is it?",
+   	    "a": "A hole"
+	},
+	{
+	    "q": "What has 4 legs, runs day and night, but never gets anywhere?",
+   	    "a": "The Famous Lion Fountains at the museum"
+	},
+	{
+	    "q": "What are more mink skins used for than anything else?",
+   	    "a": "to hold minks together"
+	},
+	{
+	    "q": "Did you hear what the maid said when the duchess asked if she'd given the goldfish fresh water that morning?",
+   	    "a": "No your highness, he hasn't yet used what he had yesterday"
+	},
+	{
+	    "q": "Did you hear about the kid who wanted to sell his dog for $50,000?",
+   	    "a": "He got his price, traded it for 2 $25,000 cats but you can't make a deal like that for the Maharaja because we've got enough cat's already"
+	},
+	{
+	    "q": "Why is a musician's bandstand like an oven?",
+   	    "a": "Because that's where he makes his bread"
+	},
+	{
+	    "q": "How do you make a dishonest shortcake?",
+   	    "a": "Lieberry shortcake"
+	},
+	{
+	    "q": "What do you find in a kitchen cabinet that is not alive?",
+   	    "a": "Deadpans"
+ 	},
+	{
+	    "q": "When is a new car considered to be seedy?",
+   	    "a": "When it's a lemon"
+	},
+	{
+	    "q": "When is a bonnet not a bonnet?",
+   	    "a": "When it becomes a young woman"
+	},
+	{
+	    "q": "When does a Boy Wonder rhyme with bubble?",
+   	    "a": "When he's double"
+	},
+	{
+	    "q": "Why is a bear like a fallen tree?",
+   	    "a": "A bear lumbers and a fallen tree becomes lumber"
+	},
+	{
+	    "q": "Why is silk like grass?",
+   	    "a": "You measure both by the yard"
+	},
+	{
+	    "q": "When is a man a stupid relative?",
+   	    "a": "When he's a mannequin"
+	},
+	{
+	    "q": "Why was Flo Zigfield like a nearsighted man?",
+   	    "a": "Because they both put on spectacles"
+	},
+	{
+	    "q": "What kind of men are always above board?",
+   	    "a": "Chessmen"
+	},
+	{
+	    "q": "What kind of machine has ears?",
+   	    "a": "A train, it has engineers"
+	},
+	{
+	    "q": "Why does a cowboy wear a tight belt?",
+   	    "a": "To hold up his pants"
+	},
+	{
+	    "q": "Mr. Van Jones, why are you like a clock at midnight?",
+   	    "a": "Because both of your hands are going straight up, right now"
+	},
+	{
+	    "q": "What's black & white and full of fuzz?",
+   	    "a": "Squad Car"
+ 	},
+	{
+	    "q": "What letter is ne'er received in the alphabet?",
+   	    "a": "The letter you put in the mailbox"
+	},
+	{
+	    "q": "How canst thou keep a rooster from crowing on Sabbath morn?",
+   	    "a": "By killing him on a Saturday night?"
+	},
+	{
+	    "q": "An aviator was carrying his clothes home from the cleaners when it began to rain. How did he protect them?",
+   	    "a": "He put them inside the hangers"
+	},
+	{
+	    "q": "When is a man drowned, but still not wet?",
+   	    "a": "When he's trapped in quicksand"
+	},
+	{
+	    "q": "When is an eagle's nest blest best?",
+   	    "a": "Nest Eggs; Anthony Aquila, the Latin American dictator"
+	},
+	{
+	    "q": "What is it that travels on all fours in the morning, on two legs at noon, and three at twilight?",
+   	    "a": "Man"
+ 	},
+	{
+	    "q": "When is a floor like a puzzle?",
+   	    "a": "the floor under the duo breaks apart"
+	},
+	{
+	    "q": "Why is an old collar button like an old pile of burning automobile tires?",
+	    "a": "Because they both choke!"
+	},
+	{
+	    "q": "When is a Jet Stream like a Daffodil?",
+   	    "a": "(unanswered)"
+	},
+	{
+	    "q": "What do many boats, shovels, laundries, whistles, and hot showers have in common?",
+   	    "a": "steam"
+ 	},
+	{
+	    "q": "When is the top of a mountain like a saving's account?",
+   	    "a": "when it peaks one's interest"
+	},
+	{
+	    "q": "When does a painter use a trigger instead of a brush?",
+   	    "a": "when he's a stickup artist"
+	},
+	{
+	    "q": "If we had our choice of laps to sit on, which would we choose?",
+   	    "a": "Kid Gulliver's temporary lapse of memory"
+	},
+	{
+	    "q": "What have the following in common - hemming, basting, pearling, and tagging?",
+   	    "a": "needlework"
+	},
+	{
+	    "q": "What's most alluring when it's lowest or highest; when it's in the air or in a hole; when it's served you yet you can't touch it?",
+   	    "a": "an enchanting ace"
+	},
+	{
+	    "q": "What's looser that a thread, a fish, flying ribbons?",
+   	    "a": "A woman's tongue"
+	},
+	{
+	    "q": "What do bells, curtains, twins and hair have in common?",
+   	    "a": "bells ring out, curtains ring down, twins are perfect ringers, hair comes in ringlets"
+	},
+	{
+	    "q": "Any aggressor should beware his successor   	rhymes with Mushy Nebuchadnezzer
+What are the chilliest 12 inches in the world?",
+   	    "a": "cold feet"
+ 	},
+	{
+	    "q": "What suit of cards lays eggs?",
+   	    "a": "one that's chicken hearted"
+	},
+	{
+	    "q": "What eats crow, yells uncle, and tosses sponges?",
+   	    "a": "a loser"
+ 	},
+	{
+	    "q": "When is a prizefight like a beautiful lady?",
+	    "a": "when it's a knockout",
+	},
+	{
+	    "q": "What do you throw away that keeps returning?",
+	    "a": "a boomerang"
+	},
+	{
+	    "q": "I have billions of eyes, yet I live in darkness. I have millions of ears, yet only four lobes. I have no muscle, yet I rule two hemispheres. What am I?",
+	    "a": "The human brain"
+	},
+	{
+	    "q": "We're five little items of an everyday sort; you'll find us all in 'a tennis court'.",
+	    "a": "Vowels"
+	},
+	{
+	    "q": "What is it that walks on four legs then two legs and finally three legs?",
+	    "a": "The answer to all three is a baby. True, it crawls on all fours, but cut off its legs and it can only wiggle on two limbs. Give it a crutch, it can hobble around on three."
+	},
+	{
+	    "q": "What belongs to you, but is used by others?",
+	    "a": "Your name"
+	},
+	{
+	    "q": "What is the shortest distance between a point in Nomme, Alaska and a point in Miami Florida?",
+	    "a": "A curved line on a globe"
+	},
+	{
+	    "q": "When is a Minotaur's owner as high as an elephant's eye?",
+	    "a": "Corn"
+	},
+	{
+	    "q": "Which way to the eating place?",
+	    "a": "Right"
+	},
+	{
+	    "q": "Where does a 500 pound gorilla sleep?",
+	    "a": "Anywhere it wants"
+	},
+	{
+	    "q": "What's worse than a millipede with flat feet?",
+	    "a": "A giraffe with a sore throat"
+	},
+	{
+	    "q": "How do you fit 5 elephants into a compact car?",
+	    "a": "Two in the front seat, two in the back seat, and one in the trunk."
+	},
+	{
+	    "q": "What has neither nails or bones, but has four fingers and a thumb?",
+	    "a": "A glove!"
+	},
+	{
+	    "q": "what is every where, but no where, except where something is?",
+	    "a": "nothing"
+	}
+    ]
+}
